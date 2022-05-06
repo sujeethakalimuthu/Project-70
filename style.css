@@ -1,0 +1,33 @@
+body
+{
+text-align:center;
+background-color:lime;
+}
+nav
+{
+    top: 0px;;
+    border-color:navy;
+    border-style:solid;
+    background-color: blue;
+    border-width:120px;
+    position:sticky;
+}
+.facility_mainDiv
+{
+    border:1px solid lightsalmon;
+}
+.facility_mainDiv img
+{
+    width:100%;
+}
+.facility_mainDiv h5, .travel_mainDiv p
+{
+margin:25px;
+}
+.extra-curricular-activities
+{
+    border-radius:10px;
+    padding:6px 22px;
+    border-radius:10px;
+    margin-bottom:15px;
+}
